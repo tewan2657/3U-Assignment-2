@@ -48,7 +48,7 @@ public class A2Q1 {
             // if holding 7 things, stop picking up things
             if (carl.countThingsInBackpack() == 7) {
                 break;
-                } 
+            }
 
         } // carl moves
         carl.move();
